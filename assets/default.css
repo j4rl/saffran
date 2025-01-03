@@ -1,0 +1,26 @@
+:root{
+    /* Colors, make it small and swift and with both dark and light colors  */
+    --primary-color: #409111;
+    --primary-dark-color: #297516;
+    --secondary-color: #a9afb4;
+    --secondary-dark-color: #6c757d;
+    --background-dark-color: #10121A;
+    --background-dark-color-2: #191D2B;
+    --border-dark-color: #2e344e;
+    --border-light-color: #777777;
+    --background-light-color: #F1F1F1;
+    --background-light-color-2: #b6b6b6;
+    --white-color: #FFF;
+    --black-color:#000;
+    --font-light-color: #a4acc4;
+    --font-light-color-2: #d5d5d5;
+    --font-dark-color: #313131;
+    --font-dark-color-2: #151515;
+    --sidebar-dark-color: #191D2B;
+    --sidebar-light-color: #868892;
+
+    --light-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    --dark-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+    --open-color: rgb(218, 162, 44);
+    --closed-color: rgb(81, 185, 40);
+}
