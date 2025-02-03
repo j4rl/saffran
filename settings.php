@@ -1,7 +1,7 @@
 <?php  
 // Settings for language, theme and some corporate strings
 $language = "en";
-$theme = "default";
+$theme = "default"; //default, dark, mono, pastel, custom
 $company = "Saffran";
 // get url of the company from the global variable $_SERVER
 $company_url = $_SERVER['HTTP_HOST'];
